@@ -1,0 +1,1 @@
+Power Query allows as to do automaation in data cleaning process
